@@ -1,4 +1,4 @@
-## Functions for the creating the cache Matrix, storing the calculations 
+## Functions for the creating of the cached matrix, storing the calculations 
 ##of the inverse matrix, and calculating the inverse matrix
 
 ## This function will create a cached matrix
